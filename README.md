@@ -11,17 +11,43 @@
 
 ## Table of Contents
 
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
 - [Data Description](#data-description)
 - [Analysis](#analysis)
 - [Summary of the Results](#summary-of-the-results)
 - [Conclusion](#conclusion)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [Author](#author)
 - [License](#license)
+
+## Prerequisites
+
+Before starting, ensure you have the following tools installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [PostgreSQL](https://www.postgresql.org/)
+
+## Installation
+
+Follow the steps below to set up the development environment:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/DanMO23/Analyzing-Students-Mental-Health.git
+   cd Analyzing-Students-Mental-Health
+   ```
+
+2. **Set up PostgreSQL database:**
+
+   Create a PostgreSQL database and configure the connection settings in your environment.
+
+3. **Load the data into the database:**
+
+   Use the provided SQL scripts to load the data into your PostgreSQL database.
 
 ## Data Description
 
@@ -80,35 +106,9 @@ Overall, the results indicate that international students experience varying lev
 
 This analysis highlights the mental health challenges faced by international students and underscores the importance of providing adequate support to help them cope with acculturative stress and maintain social connectedness.
 
-## Prerequisites
-
-Before starting, ensure you have the following tools installed on your machine:
-
-- [Git](https://git-scm.com/)
-- [PostgreSQL](https://www.postgresql.org/)
-
-## Installation
-
-Follow the steps below to set up the development environment:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/DanMO23/Analyzing-Students-Mental-Health.git
-   cd Analyzing-Students-Mental-Health
-   ```
-
-2. **Set up PostgreSQL database:**
-
-   Create a PostgreSQL database and configure the connection settings in your environment.
-
-3. **Load the data into the database:**
-
-   Use the provided SQL scripts to load the data into your PostgreSQL database.
-
 ## Usage
 
-After completing the installation, you can run the SQL queries provided in the analysis section to explore the data and generate insights.
+After completing the installation, you can run the SQL queries provided in the analysis section to explore the data and generate insights, or create your own queries to further analyze the dataset. If you have any questions or need assistance, feel free to open an issue.
 
 ## Technologies Used
 
