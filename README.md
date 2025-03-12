@@ -1,13 +1,23 @@
 # Analyzing Students' Mental Health
 
-![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
+![Project Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.4-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
 ## Project Description
 
-**Analyzing Students' Mental Health** is a project aimed at analyzing the mental health of international students at a Japanese university. The analysis is based on a survey conducted in 2018, which was published in 2019. The study found that international students are at a higher risk of mental health difficulties compared to the general population. Key factors such as social connectedness and acculturative stress were identified as predictors of depression.
+**Analyzing Students' Mental Health** is a comprehensive data analysis project aimed at understanding the mental health challenges faced by international students at a Japanese university. The analysis is based on a survey conducted in 2018 and published in 2019, which revealed that international students are at a higher risk of mental health difficulties compared to the general population. Key factors such as social connectedness and acculturative stress were identified as significant predictors of depression.
+
+This repository contains the dataset, SQL queries, and analysis results that explore the relationship between students' length of stay and their mental health outcomes. The project highlights the importance of providing adequate support to help international students cope with acculturative stress and maintain social connectedness.
+
+## Key Features
+
+- **Data Description**: Detailed information about the dataset columns and their descriptions.
+- **SQL Analysis**: SQL queries to explore the data and generate insights.
+- **Results Summary**: Key findings from the analysis, including the impact of length of stay on depression and acculturative stress.
+- **Conclusion**: Insights and recommendations based on the analysis results.
 
 ## Table of Contents
 
